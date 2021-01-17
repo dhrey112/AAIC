@@ -1,0 +1,2 @@
+# AAIC
+Applied AI course
